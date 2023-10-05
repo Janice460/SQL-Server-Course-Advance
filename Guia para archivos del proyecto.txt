@@ -1,0 +1,3 @@
+SSIS: Creacion de paquetes para importarlos en SQL
+SSIS_2: creacion de dimensiones pedidas en la tabla del trabajo.
+SSAS: Creacion de cubo
